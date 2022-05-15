@@ -1,0 +1,23 @@
+#ana-sayfa {
+  list-style-position: inside;
+}
+
+#urunlerimiz {
+    list-style-position: inside;
+  }
+
+h1 {
+  color: #125b50;
+}
+
+h2 {
+  color: #f8b400;
+}
+
+h3 {
+  color: #ff6363;
+}
+
+.center {
+  text-align: center;
+}
